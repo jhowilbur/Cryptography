@@ -1,0 +1,10 @@
+HelloFX.class
+view/View.class
+Application/App.class
+controller/BasicEncoder.class
+controller/Decoder.class
+Application/AppRun.class
+model/Model.class
+controller/Encoder.class
+controller/BasicDecoder.class
+controller/Controller.class
